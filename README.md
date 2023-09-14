@@ -21,7 +21,6 @@ optional arguments:
   --seed S        random seed (default: 1)
   --outf OUTF     folder to output images and model checkpoints
   --ckpf CKPF     path to model checkpoint file (to continue training)
-  --degree P      polynomial degree to learn(default: 4)
   --batch-size N  input batch size for training (default: 32)
   --train         training a fully connected layer
   --evaluate      Evaluate a [pre]trained model from a random tensor.
